@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cdee7cc91a9160ad",
+    "id": "a7dc23e04825daad",
     "type": "split",
     "children": [
       {
-        "id": "c6b40dbb610a7369",
+        "id": "d4490954df7b9c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f88a8a038c1caad",
+            "id": "bc4bb81c604ebfed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中特/期末论文.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期末论文"
+              "title": "README"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "651b1a21895ac1c1",
+    "id": "1f37b6a469ea1272",
     "type": "split",
     "children": [
       {
-        "id": "94eef64640f0fa50",
+        "id": "a5845886df8d009b",
         "type": "tabs",
         "children": [
           {
-            "id": "7de4b45a8e329a2e",
+            "id": "1227a17fcc74e7eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "e53d8231b02d65ba",
+            "id": "442259a7ad1335ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "79eda37ad20ffe4f",
+            "id": "465c090ff683ad89",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +80,15 @@
     "width": 300
   },
   "right": {
-    "id": "932e75ad474b4c8f",
+    "id": "81b1e027df7e4a86",
     "type": "split",
     "children": [
       {
-        "id": "9d49d8607a1a0757",
+        "id": "832cc4e069f43ef6",
         "type": "tabs",
         "children": [
           {
-            "id": "24c3ca63561320fe",
+            "id": "f1abbebd82082127",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "ba9928c0edab945c",
+            "id": "e655348f7d505209",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "19c7663b56eb8bdd",
+            "id": "9d7c019166576c13",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,23 +134,23 @@
             }
           },
           {
-            "id": "d78799fd674cf262",
+            "id": "954d17ce6b7353e0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "中特/期末论文.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "期末论文 的大纲"
+              "title": "README 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,26 +159,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "7f88a8a038c1caad",
+  "active": "bc4bb81c604ebfed",
   "lastOpenFiles": [
-    "README.md",
-    "中特/期末论文.md",
-    "未命名.canvas",
-    "2024-11-21.md",
-    "中特/2024秋《新中特》期末论文要求.pdf",
-    "通信网理论/实验4 爱尔兰混合制系统 .pdf",
-    "中特/三中全会《决定》全文.pdf",
-    "视频信号处理/~$视频信号处理技术与实践实验报告模板.docx",
-    "视频信号处理/智能视频信号处理技术与实践实验报告模板.docx",
-    "视频信号处理",
-    "通信网理论",
-    "新建文件夹",
-    "实验4 爱尔兰混合制系统 .pdf",
-    "中特",
-    "欢迎.md",
-    "创建链接.md"
+    "通信网理论/实验4 爱尔兰混合制系统 .pdf"
   ]
 }

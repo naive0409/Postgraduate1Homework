@@ -52,11 +52,11 @@
 
 ## 视频信号处理
 ### 基础实验报告
-- [1022](https://github.com/naive0409/videoProcessing/commit/3bc93d4b0400023a0da9030c310b9bf4e49727a7)java,教学平台操作手册
+- [1022](https://github.com/naive0409/videoProcessing/commit/3bc93d4b0400023a0da9030c310b9bf4e49727a7):java,教学平台操作手册
 - [1029SpringBootWeb快速入门](https://github.com/naive0409/videoProcessing/commit/c34a6e1f0aa8a8902753262b114f5641dbdcc2e8)
-- 11.5:
-- 11.11：RSTT超分
-- 11.19：LLM-DA
+- 11.5:RIFE
+- 11.11:RSTT超分
+- 11.19:LLM-DA
 ### 创新实验报告&PPT
 几人小组，每一小组3~4位同学，自由组队
 最后一次课结束收
